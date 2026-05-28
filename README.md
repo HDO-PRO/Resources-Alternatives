@@ -1,82 +1,86 @@
 # 🎬 HDO PRO / HDO BOX Resources & Alternatives
 
-This repository contains a curated list of public links related to **HDO PRO**, **HDO Box**, forks, mirrors, and commonly used streaming alternatives.
+This repository contains a curated list of public links related to **HDO PRO, HDO Box, forks, mirrors, and streaming alternatives**.
 
 > ⚠️ **Disclaimer:** Many of these projects are unofficial, may change domains frequently, or may become unstable. Use caution when downloading APKs or visiting unknown sources.
 
 ---
 
-## 🔥 HDO PRO (Official / GitHub / Private)
+## 🔥 HDO BOX / HDO CORE LINKS (Primary Sites & Repositories)
 
-- https://github.com/HDO-PRO/hdo-pro
-- https://github.com/HDO-PRO/hdoplus-clone
+These are commonly referenced HDO Box-related domains and repositories:
 
----
-
-## 🎬 HDO BOX Official / Core Repositories
-
-- https://github.com/hd0b0x
-- https://github.com/HDO-Box-Official/HDO-Box-app-official
-- https://github.com/HDO-Box-Official
-- https://hdobox.net
-- https://h-do.com
-- https://hdoboxplus.com
-- https://hdobox-tv.com
-- https://hdobox-apk.com
+- https://hdobox.net  
+- https://h-do.com  
+- https://hdoboxplus.com  
+- https://hdobox.my  
+- https://hdobox-tv.com  
+- https://hdobox-apk.com  
+- https://github.com/HDO-Box-Official  
+- https://github.com/hd0b0x  
+- https://github.com/HDO-BOX-App-Official/HDO-Box-app-official  
 
 ---
 
-## 🔁 HDO BOX Forks / Mirrors / Community Projects
+## 🔥 HDO PRO (Unofficial / Alternative Project)
 
-- https://github.com/topics/hdobox
-- https://github.com/topics/movie-app
-- https://github.com/hd0b0x
-- https://github.com/HDO-BOX-App-Official
+HDO PRO is often referenced as a **community alternative media player/project**. It is not confirmed as an official continuation of HDO Box.
 
----
-
-## 📺 Popular Alternatives
-
-- https://www.stremio.com
-- https://pluto.tv
-- https://onstream.so
-- https://cinemahd.app
-- https://filmplus.app
-- https://beetvapk.me
-- https://flixvision.app
-- https://novatv.app
-- https://mobiflix.app
+- https://github.com/HDO-PRO/hdo-pro  
+- https://github.com/HDO-PRO/hdoplus-clone  
 
 ---
 
-## 🧠 Community Mentioned Tools
+## 🔁 Related GitHub Projects & Forks
 
-- CloudStream
-- TeaTV
-- Cinema HQ
-- Movie HD
-- Netfly
-- Streamflix
-- BeeTV / Bee Plus forks
-- Kodi (advanced setups)
+- https://github.com/HDO-Box-Official  
+- https://github.com/hd0b0x  
+- https://github.com/HDO-BOX-App-Official  
+- https://github.com/topics/hdobox  
+- https://github.com/topics/movie-app  
+- https://github.com/topics/android-media-player  
 
 ---
 
-## 📦 Related Open Source Projects
+## 📺 Popular Streaming Alternatives
 
-- https://github.com/xbmc/xbmc
-- https://github.com/Stremio/stremio-web
-- https://github.com/topics/streaming-app
-- https://github.com/topics/android-media-player
+These are commonly used streaming apps and services:
+
+- https://www.stremio.com  
+- https://pluto.tv  
+- https://onstream.so  
+- https://cinemahd.app  
+- https://filmplus.app  
+- https://beetvapk.me  
+- https://flixvision.app  
+- https://novatv.app  
+- https://mobiflix.app  
+- https://kodi.tv  
+
+---
+
+## 🧠 Community Mentioned Apps
+
+These apps are often mentioned in forums and community discussions:
+
+- CloudStream  
+- TeaTV  
+- Cinema HQ  
+- Movie HD  
+- Streamflix  
+- BeeTV / Bee Plus forks  
+- LokLok variants  
+- Kodi community builds and addons  
 
 ---
 
 ## 🧠 Notes
 
-- Many HDO Box / HDO PRO links are mirrors, clones, or forks.
-- Domains may go offline or change frequently.
-- GitHub repositories may be private, archived, or unofficial builds.
-- Some apps rely on third-party sources and may stop working unexpectedly.
+- Many HDO Box / HDO PRO-related links are **mirrors, clones, or community forks**.
+- Domains may change, go offline, or stop working at any time.
+- GitHub repositories may be unofficial, archived, or outdated.
+- Some apps rely on third-party sources and may be unreliable over time.
+- Always verify files before installing anything on your device.
 
 ---
 
@@ -85,4 +89,4 @@ This repository contains a curated list of public links related to **HDO PRO**, 
 This list is for **informational and educational purposes only**.  
 No content is hosted in this repository.
 
-> We strongly recommend using official streaming platforms whenever possible for safety, reliability, and legal compliance.
+> Users are encouraged to use official and legal streaming platforms whenever possible for safety, reliability, and long-term support.
