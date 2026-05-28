@@ -7,6 +7,16 @@
   <img src="https://img.shields.io/badge/license-informational-green" />
 </p>
 
+---
+
+> ⚠️ **Important Notice**
+> This repository is a **community-maintained resource index** and does not host any content.
+> Most links listed here are **unofficial, third-party, or community sources** and may change, move, or become unavailable without notice.
+> This project is intended for **informational and reference purposes only**, and availability or accuracy of external links is not guaranteed.
+> Users are strongly encouraged to use official and legal platforms whenever possible.
+
+---
+
 <p align="center">
   <b>Curated index of HDO Box / HDO PRO links, forks, and streaming alternatives.</b>
 </p>
@@ -59,7 +69,7 @@ This repository organizes known public references related to:
 |--------|--------|------|
 | 🔥 Core Links | 🟡 Mixed | Domains may change |
 | 🧪 HDO PRO | 🟢 Active | Community forks |
-| 🔁 GitHub Projects | 🟢 Active | Frequent updates |
+| 🔁 GitHub Projects | 🟡 Mixed | Frequent updates |
 | 📺 Apps | 🟡 Mixed | Third-party tools |
 | 🌐 Alternatives | 🟢 Stable | Official platforms |
 
@@ -116,7 +126,7 @@ This repository organizes known public references related to:
 # 🔁 GITHUB ECOSYSTEM
 
 <p>
-  <img src="https://img.shields.io/badge/section-github%20projects-purple" />
+  <img src="https://img.shields.io/badge/section-github%20projects-yellow" />
 </p>
 
 <details>
@@ -188,8 +198,8 @@ This repository organizes known public references related to:
 ## 🧠 NOTES
 
 - Domains may change frequently  
-- Some repositories may be archived or inactive  
-- Third-party apps can rely on external indexing sources  
+- Many repositories are unofficial or archived  
+- Some apps rely on third-party indexing systems  
 - Always verify safety before installing anything  
 - This project may not always reflect real-time accuracy  
 
@@ -221,5 +231,3 @@ This repository is strictly for **educational and informational indexing purpose
 - This is not a streaming service  
 - Users are responsible for how they use external links  
 - Legal platforms are strongly recommended  
-
----
