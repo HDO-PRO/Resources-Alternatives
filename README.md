@@ -1,38 +1,73 @@
-# 🎬 HDO PRO / HDO BOX Resources & Alternatives
+# 🎬✨ HDO PRO / HDO BOX — Resource Index
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-maintained%20%28community%29-yellow" />
+  <img src="https://img.shields.io/badge/status-community%20maintained-yellow" />
+  <img src="https://img.shields.io/badge/type-resource%20hub-lightgrey" />
   <img src="https://img.shields.io/badge/last%20updated-2026--05-blue" />
-  <img src="https://img.shields.io/badge/type-resource%20index-lightgrey" />
+  <img src="https://img.shields.io/badge/license-informational-green" />
+</p>
+
+<p align="center">
+  <b>Curated index of HDO Box / HDO PRO links, forks, and streaming alternatives.</b>
 </p>
 
 ---
 
-> ⚠️ **Disclaimer**
-> This repository is a **community-curated index of publicly known links and projects**.
-> Many listed projects are unofficial, may change domains, or disappear without notice.
-> This project does **not host any content** and is for informational purposes only.
-> Always prioritize legal and official streaming platforms.
+## 🌌 HERO
+
+<p align="center">
+  <img src="https://via.placeholder.com/1100x260/0d1117/ffffff?text=HDO+PRO+%7C+RESOURCE+INDEX" />
+</p>
+
+<p align="center">
+  <i>Organized. Structured. Community-driven. Pure reference index.</i>
+</p>
 
 ---
 
-## 🌑 Overview
+## 🧭 QUICK NAVIGATION
 
-This repository organizes links related to:
+<p align="center">
 
-* HDO Box ecosystem references
+<a href="#-overview">Overview</a> • <a href="#-core-links">Core Links</a> • <a href="#-hdo-pro">HDO PRO</a> • <a href="#-forks">Forks</a> • <a href="#-apps">Apps</a> • <a href="#-alternatives">Alternatives</a> • <a href="#-notes">Notes</a>
+
+</p>
+
+---
+
+## 📌 OVERVIEW
+
+This repository organizes known public references related to:
+
+* HDO Box ecosystem domains
 * HDO PRO community forks
-* GitHub media-player projects
-* Streaming alternatives (official & unofficial)
+* GitHub media players & clones
+* Streaming-related tools & alternatives
+
+⚠️ This is an **index only**. No content is hosted or distributed.
 
 ---
 
-# 📁 Directory
+## ⚡ QUICK STATUS DASHBOARD
 
-## 🔥 HDO BOX / CORE LINKS
+| Section         | Status        | Notes              |
+| --------------- | ------------- | ------------------ |
+| Core Links      | 🟡 Mixed      | Domains may change |
+| HDO PRO         | 🟡 Unverified | Community forks    |
+| GitHub Projects | 🟢 Active     | Frequent updates   |
+| Apps            | 🟡 Mixed      | Third-party tools  |
+| Alternatives    | 🟢 Stable     | Official platforms |
+
+---
+
+# 🔥 CORE LINKS
+
+<p>
+  <img src="https://img.shields.io/badge/section-core%20ecosystem-blue" />
+</p>
 
 <details>
-<summary>Click to expand</summary>
+<summary>🌐 Expand Core Domains</summary>
 
 * [https://hdobox.net](https://hdobox.net)
 * [https://h-do.com](https://h-do.com)
@@ -40,6 +75,12 @@ This repository organizes links related to:
 * [https://hdobox.my](https://hdobox.my)
 * [https://hdobox-tv.com](https://hdobox-tv.com)
 * [https://hdobox-apk.com](https://hdobox-apk.com)
+
+</details>
+
+<details>
+<summary>💻 Expand GitHub Sources</summary>
+
 * [https://github.com/HDO-Box-Official](https://github.com/HDO-Box-Official)
 * [https://github.com/hd0b0x](https://github.com/hd0b0x)
 * [https://github.com/HDO-BOX-App-Official/HDO-Box-app-official](https://github.com/HDO-BOX-App-Official/HDO-Box-app-official)
@@ -48,24 +89,33 @@ This repository organizes links related to:
 
 ---
 
-## 🔥 HDO PRO (UNOFFICIAL / COMMUNITY)
+# 🧪 HDO PRO
+
+<p>
+  <img src="https://img.shields.io/badge/section-community%20forks-orange" />
+  <img src="https://img.shields.io/badge/status-unverified-yellow" />
+</p>
 
 <details>
-<summary>Click to expand</summary>
+<summary>Expand Community Projects</summary>
 
 * [https://github.com/HDO-PRO/hdo-pro](https://github.com/HDO-PRO/hdo-pro)
 * [https://github.com/HDO-PRO/hdoplus-clone](https://github.com/HDO-PRO/hdoplus-clone)
 
-> ⚠️ Note: HDO PRO is not confirmed as an official continuation of HDO Box. It may be a fork, clone, or unrelated project depending on source.
-
 </details>
+
+> ⚠️ **Important:** These projects are not confirmed official continuations and may vary in purpose or origin.
 
 ---
 
-## 🔁 GITHUB PROJECTS & FORKS
+# 🔁 FORKS & GITHUB ECOSYSTEM
+
+<p>
+  <img src="https://img.shields.io/badge/section-github%20ecosystem-purple" />
+</p>
 
 <details>
-<summary>Click to expand</summary>
+<summary>Expand Fork Networks</summary>
 
 * [https://github.com/HDO-Box-Official](https://github.com/HDO-Box-Official)
 * [https://github.com/hd0b0x](https://github.com/hd0b0x)
@@ -78,10 +128,14 @@ This repository organizes links related to:
 
 ---
 
-## 📺 COMMUNITY / THIRD-PARTY APPS
+# 📺 APPS & TOOLS
+
+<p>
+  <img src="https://img.shields.io/badge/section-media%20apps-blueviolet" />
+</p>
 
 <details>
-<summary>Click to expand</summary>
+<summary>Expand App List</summary>
 
 * CloudStream (open-source streaming client)
 * TeaTV
@@ -96,12 +150,14 @@ This repository organizes links related to:
 
 ---
 
-## 🌐 STREAMING & MEDIA ALTERNATIVES (OFFICIAL + SAFE)
+# 🌐 STREAMING ALTERNATIVES
+
+<p>
+  <img src="https://img.shields.io/badge/section-official%20platforms-green" />
+</p>
 
 <details>
-<summary>Click to expand</summary>
-
-### 🟢 Official Platforms
+<summary>Expand Official Platforms</summary>
 
 * [https://www.netflix.com](https://www.netflix.com)
 * [https://www.disneyplus.com](https://www.disneyplus.com)
@@ -111,32 +167,54 @@ This repository organizes links related to:
 * [https://tv.apple.com](https://tv.apple.com)
 * [https://www.youtube.com](https://www.youtube.com)
 
----
+</details>
 
-### 🔵 Open / Free Legal Platforms
+<details>
+<summary>Expand Free Legal Platforms</summary>
 
 * [https://pluto.tv](https://pluto.tv)
-* [https://www.stremio.com](https://www.stremio.com) *(client platform, use legal sources)*
+* [https://www.stremio.com](https://www.stremio.com) *(client only — use legal sources)*
 * [https://kodi.tv](https://kodi.tv)
 
 </details>
 
 ---
 
-## 🧠 NOTES
+# 🧠 NOTES
 
 * Domains may change frequently
-* Many repos are unofficial or archived
-* Some apps rely on third-party indexing sources
+* Many repositories are unofficial or archived
+* Some tools rely on third-party indexing systems
 * Always verify safety before installing anything
-* This list is not guaranteed to be current due to rapid ecosystem changes
+* This index is not guaranteed to stay fully current
 
 ---
 
-## ⚖️ DISCLAIMER
+# 📊 LEGEND
 
-This project is strictly for **educational and informational indexing purposes only**.
+🟢 Stable / active
+🟡 Unstable / changing
+🔴 Offline / unavailable
+⚪ Reference only
 
-No content is hosted, uploaded, or distributed here.
+---
 
-Users are strongly encouraged to use **legal streaming platforms** for safety, reliability, and long-term support.
+# 🛡️ SECURITY NOTICE
+
+* Do not install unknown APKs without verification
+* Prefer official sources where possible
+* Be cautious with third-party streaming apps
+* Keep devices updated for safety
+
+---
+
+# ⚖️ DISCLAIMER
+
+This repository is strictly for **educational and informational indexing purposes only**.
+
+* No media content is hosted
+* No streaming services are provided
+* This project exists purely as a reference hub
+* Users are strongly encouraged to use legal platforms
+
+---
