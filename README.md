@@ -70,7 +70,7 @@
 ### 💬 Community
 
 * Telegram: [HDO Telegram](https://t.me/+Ywz5HnhvFHAsZjk1?utm_source=chatgpt.com)
-* Discord: [HDO Discord](https://discord.gg/9gufdXE6?utm_source=chatgpt.com)
+* Discord: [HDO Discord](https://discord.gg/9gufdXE6?utm_source=chatgpt.com) or [HDO DIS](https://discord.com/invite/VPRJVExUVD)
 * Email: [hdobox@gmail.com](mailto:hdobox@gmail.com)
 
 ---
