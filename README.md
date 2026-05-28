@@ -35,6 +35,30 @@
 
 ---
 
+## 📥 OFFICIAL DOWNLOADS & ACCESS
+
+### 📥 Download Links
+
+* Android: [HDO App](https://hdo.app/?utm_source=chatgpt.com)
+* iOS: Not available
+* Android TV: Available via official site
+
+---
+
+### 🌐 Official
+
+* Website: [HDO Official Site](https://hdo.app/?utm_source=chatgpt.com)
+
+---
+
+### 💬 Community
+
+* Telegram: [HDO Telegram](https://t.me/+Ywz5HnhvFHAsZjk1?utm_source=chatgpt.com)
+* Discord: [HDO Discord](https://discord.gg/9gufdXE6?utm_source=chatgpt.com)
+* Email: [hdobox@gmail.com](mailto:hdobox@gmail.com)
+
+---
+
 ## 🧭 QUICK NAVIGATION
 
 <p align="center">
@@ -54,10 +78,10 @@
 
 This repository organizes known public references related to:
 
-- HDO Box ecosystem domains  
-- HDO PRO community forks  
-- GitHub media players & clones  
-- Streaming-related tools & alternatives  
+* HDO Box ecosystem domains
+* HDO PRO community forks
+* GitHub media players & clones
+* Streaming-related tools & alternatives
 
 ⚠️ This is an **index only**. No content is hosted or distributed.
 
@@ -65,17 +89,17 @@ This repository organizes known public references related to:
 
 ## ⚡ QUICK STATUS DASHBOARD
 
-| Section | Status | Notes |
-|--------|--------|------|
-| 🔥 Core Links | 🟡 Mixed | Domains may change |
-| 🧪 HDO PRO | 🟢 Active | Community forks |
-| 🔁 GitHub Projects | 🟡 Mixed | Frequent updates |
-| 📺 Apps | 🟡 Mixed | Third-party tools |
-| 🌐 Alternatives | 🟢 Stable | Official platforms |
+| Section            | Status    | Notes              |
+| ------------------ | --------- | ------------------ |
+| 🔥 Core Links      | 🟡 Mixed  | Domains may change |
+| 🧪 HDO PRO         | 🟢 Active | Community forks    |
+| 🔁 GitHub Projects | 🟡 Mixed  | Frequent updates   |
+| 📺 Apps            | 🟡 Mixed  | Third-party tools  |
+| 🌐 Alternatives    | 🟢 Stable | Official platforms |
 
 ---
 
-# 🔥 CORE LINKS
+## 🔥 CORE LINKS
 
 <p>
   <img src="https://img.shields.io/badge/section-core%20ecosystem-blue" />
@@ -84,27 +108,27 @@ This repository organizes known public references related to:
 <details>
 <summary>🌐 Expand Core Domains</summary>
 
-- https://hdobox.net  
-- https://h-do.com  
-- https://hdoboxplus.com  
-- https://hdobox.my  
-- https://hdobox-tv.com  
-- https://hdobox-apk.com  
+* [https://hdobox.net](https://hdobox.net)
+* [https://h-do.com](https://h-do.com)
+* [https://hdoboxplus.com](https://hdoboxplus.com)
+* [https://hdobox.my](https://hdobox.my)
+* [https://hdobox-tv.com](https://hdobox-tv.com)
+* [https://hdobox-apk.com](https://hdobox-apk.com)
 
 </details>
 
 <details>
 <summary>💻 Expand GitHub Sources</summary>
 
-- https://github.com/HDO-Box-Official  
-- https://github.com/hd0b0x  
-- https://github.com/HDO-BOX-App-Official/HDO-Box-app-official  
+* [https://github.com/HDO-Box-Official](https://github.com/HDO-Box-Official)
+* [https://github.com/hd0b0x](https://github.com/hd0b0x)
+* [https://github.com/HDO-BOX-App-Official/HDO-Box-app-official](https://github.com/HDO-BOX-App-Official/HDO-Box-app-official)
 
 </details>
 
 ---
 
-# 🧪 HDO PRO
+## 🧪 HDO PRO
 
 <p>
   <img src="https://img.shields.io/badge/section-community%20forks-orange" />
@@ -114,8 +138,8 @@ This repository organizes known public references related to:
 <details>
 <summary>Expand HDO PRO Projects</summary>
 
-- https://github.com/HDO-PRO/hdo-pro  
-- https://github.com/HDO-PRO/hdoplus-clone  
+* [https://github.com/HDO-PRO/hdo-pro](https://github.com/HDO-PRO/hdo-pro)
+* [https://github.com/HDO-PRO/hdoplus-clone](https://github.com/HDO-PRO/hdoplus-clone)
 
 </details>
 
@@ -123,7 +147,7 @@ This repository organizes known public references related to:
 
 ---
 
-# 🔁 GITHUB ECOSYSTEM
+## 🔁 GITHUB ECOSYSTEM
 
 <p>
   <img src="https://img.shields.io/badge/section-github%20projects-yellow" />
@@ -132,18 +156,18 @@ This repository organizes known public references related to:
 <details>
 <summary>Expand GitHub Projects & Topics</summary>
 
-- https://github.com/HDO-Box-Official  
-- https://github.com/hd0b0x  
-- https://github.com/HDO-BOX-App-Official  
-- https://github.com/topics/hdobox  
-- https://github.com/topics/movie-app  
-- https://github.com/topics/android-media-player  
+* [https://github.com/HDO-Box-Official](https://github.com/HDO-Box-Official)
+* [https://github.com/hd0b0x](https://github.com/hd0b0x)
+* [https://github.com/HDO-BOX-App-Official](https://github.com/HDO-BOX-App-Official)
+* [https://github.com/topics/hdobox](https://github.com/topics/hdobox)
+* [https://github.com/topics/movie-app](https://github.com/topics/movie-app)
+* [https://github.com/topics/android-media-player](https://github.com/topics/android-media-player)
 
 </details>
 
 ---
 
-# 📺 APPS & COMMUNITY TOOLS
+## 📺 APPS & COMMUNITY TOOLS
 
 <p>
   <img src="https://img.shields.io/badge/section-apps-blueviolet" />
@@ -152,20 +176,20 @@ This repository organizes known public references related to:
 <details>
 <summary>Expand Apps List</summary>
 
-- CloudStream (open-source streaming client)  
-- TeaTV  
-- Cinema HD  
-- Movie HD  
-- Streamflix  
-- BeeTV / Bee Plus forks  
-- LokLok variants  
-- Kodi builds & community addons  
+* CloudStream (open-source streaming client)
+* TeaTV
+* Cinema HD
+* Movie HD
+* Streamflix
+* BeeTV / Bee Plus forks
+* LokLok variants
+* Kodi builds & community addons
 
 </details>
 
 ---
 
-# 🌐 STREAMING ALTERNATIVES
+## 🌐 STREAMING ALTERNATIVES
 
 <p>
   <img src="https://img.shields.io/badge/section-official%20platforms-green" />
@@ -174,22 +198,22 @@ This repository organizes known public references related to:
 <details>
 <summary>Expand Official Platforms</summary>
 
-- https://www.netflix.com  
-- https://www.disneyplus.com  
-- https://www.hulu.com  
-- https://www.primevideo.com  
-- https://www.max.com  
-- https://tv.apple.com  
-- https://www.youtube.com  
+* [https://www.netflix.com](https://www.netflix.com)
+* [https://www.disneyplus.com](https://www.disneyplus.com)
+* [https://www.hulu.com](https://www.hulu.com)
+* [https://www.primevideo.com](https://www.primevideo.com)
+* [https://www.max.com](https://www.max.com)
+* [https://tv.apple.com](https://tv.apple.com)
+* [https://www.youtube.com](https://www.youtube.com)
 
 </details>
 
 <details>
 <summary>Expand Free Legal Platforms</summary>
 
-- https://pluto.tv  
-- https://www.stremio.com *(client platform — use legal sources)*  
-- https://kodi.tv  
+* [https://pluto.tv](https://pluto.tv)
+* [https://www.stremio.com](https://www.stremio.com)
+* [https://kodi.tv](https://kodi.tv)
 
 </details>
 
@@ -197,29 +221,29 @@ This repository organizes known public references related to:
 
 ## 🧠 NOTES
 
-- Domains may change frequently  
-- Many repositories are unofficial or archived  
-- Some apps rely on third-party indexing systems  
-- Always verify safety before installing anything  
-- This project may not always reflect real-time accuracy  
+* Domains may change frequently
+* Many repositories are unofficial or archived
+* Some apps rely on third-party indexing systems
+* Always verify safety before installing anything
+* This project may not always reflect real-time accuracy
 
 ---
 
 ## 📊 LEGEND
 
-🟢 Stable / Active  
-🟡 Unstable / Changing  
-🔴 Offline / Unavailable  
-⚪ Reference Only  
+🟢 Stable / Active
+🟡 Unstable / Changing
+🔴 Offline / Unavailable
+⚪ Reference Only
 
 ---
 
 ## 🛡️ SECURITY NOTICE
 
-- Avoid installing unknown APKs without verification  
-- Prefer official streaming platforms where possible  
-- Keep devices and apps updated  
-- Be cautious with third-party sources  
+* Avoid installing unknown APKs without verification
+* Prefer official streaming platforms where possible
+* Keep devices and apps updated
+* Be cautious with third-party sources
 
 ---
 
@@ -227,7 +251,10 @@ This repository organizes known public references related to:
 
 This repository is strictly for **educational and informational indexing purposes only**.
 
-- No content is hosted or distributed  
-- This is not a streaming service  
-- Users are responsible for how they use external links  
-- Legal platforms are strongly recommended  
+* No content is hosted or distributed
+* This is not a streaming service
+* Users are responsible for how they use external links
+* Legal platforms are strongly recommended
+
+---
+
