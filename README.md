@@ -1,98 +1,50 @@
-# 🎬 Streaming Apps & HDO Box Alternatives (Media Tools Hub)
+# 🎬 HDO PRO / HDO BOX Resources & Alternatives
 
-This repository is a curated list of media streaming applications, alternatives to HDO-style apps, and official legal streaming platforms.
+This repository contains a curated list of public links related to HDO PRO, HDO Box, and commonly used streaming alternatives.
 
-> ⚠️ Note: Some third-party apps listed below are unofficial and may change or stop working over time. Always verify safety before installing APKs.
-
----
-
-## 🔁 Popular HDO Box / Cinema-style Alternatives (Unofficial Apps)
-
-These are commonly mentioned in community discussions as similar apps:
-
-- https://stremio.com
-- https://onstream.so
-- https://filmplus.app (varies by region/mirror availability)
-- https://beetvapk.me (unofficial source domain)
-- https://teatv.net (unofficial APK ecosystem)
-- https://cinemahd.app (legacy app info page)
-- https://nova-tv-app.com (mirror-based APK distribution)
-- https://flixoid.app (unofficial streaming app references)
-- https://cloudstream.github.io (open-source streaming app)
+> ⚠️ Note: Many of these projects are unofficial, change domains frequently, or may be unstable.
 
 ---
 
-## 🧩 Open-Source / Media Center Tools (Recommended)
+## 🔗 HDO PRO (Private / GitHub)
 
-These are safer, legal, and widely used:
+- https://github.com/HDO-PRO/hdo-pro
+- https://github.com/HDO-PRO/hdoplus-clone
+
+---
+
+## 🌐 HDO BOX Related Sites / Mirrors
+
+- https://hdobox.net
+- https://h-do.com
+- https://hdoboxplus.com
+- https://hdobox.my
+- https://hdobox-tv.com
+- https://hdobox-apk.com
+- https://github.com/HDO-Box-Official
+- https://github.com/hd0b0x
+- https://github.com/HDO-BOX-App-Official/HDO-Box-app-official
+
+---
+
+## 📺 Popular Alternatives
 
 - https://www.stremio.com
-- https://kodi.tv
-- https://www.jellyfin.org
-- https://www.plex.tv
-- https://emby.media
-
----
-
-## 📺 Official Free Streaming Platforms (LEGAL)
-
-These are fully legal and recommended:
-
 - https://pluto.tv
-- https://tubi.tv
-- https://www.crackle.com
-- https://www.youtube.com
-- https://www.peacocktv.com
-- https://www.amazon.com/freevee
-
----
-
-## 📊 Community Mentioned Alternatives (From User Reports)
-
-These are frequently mentioned in forums and Reddit discussions:
-
-- Movie HD
-- BeeTV
-- Nova TV
-- FilmPlus
-- OnStream
-- Cinema HD
-- CloudStream
-- FlixFox
-- Castle App
-
-> ⚠️ These apps often rely on third-party sources and may involve legal gray areas depending on your region.
+- https://cinemahd.app
+- https://onstream.so
 
 ---
 
 ## 🧠 Notes
 
-- HDO-style apps are often **unstable, unofficial, or cloned across multiple domains**
-- Many APK sites re-upload modified versions that may contain ads or unsafe code
-- Open-source tools like **Stremio, Kodi, Jellyfin** are the most reliable long-term options
-- Availability varies by country and device
+- Many “HDO Box / HDO Pro” sites are **mirrors or clones**, not official stable releases.
+- Domains may go offline or change frequently.
+- Always be cautious with APK downloads from unknown sources.
+- Legal status depends on your country and content usage.
 
 ---
 
-## 🧾 Recommendation
+## 🧾 Disclaimer
 
-We strongly recommend:
-- ✅ Using official streaming platforms when possible
-- ✅ Using open-source tools (Stremio, Kodi, Jellyfin) for flexibility
-- ❌ Avoiding piracy-based APKs or unknown download sources
-
-Sticking to legal or open-source software ensures:
-- better security
-- long-term stability
-- no risk of takedowns or account issues
-
----
-
-## ⚠️ Disclaimer
-
-This repository is for informational purposes only.
-
-We do not host, distribute, or provide any copyrighted content or APK files.
-All external links are publicly available services or informational references.
-
-Users are responsible for complying with their local laws.
+This list is for informational and educational purposes only. No content is hosted here.
