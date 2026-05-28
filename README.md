@@ -1,50 +1,50 @@
-# 🎬 HDO PRO / HDO BOX Resources & Alternatives
+# 🎬 Media Streaming Tools & Alternatives (Overview)
 
-This repository contains a curated list of public links related to HDO PRO, HDO Box, and commonly used streaming alternatives.
+This repository is a curated overview of popular media streaming applications and services, including both open-source and widely used platforms.
 
-> ⚠️ Note: Many of these projects are unofficial, change domains frequently, or may be unstable.
-
----
-
-## 🔗 HDO PRO (Private / GitHub)
-
-- https://github.com/HDO-PRO/hdo-pro
-- https://github.com/HDO-PRO/hdoplus-clone
+> ⚠️ Note: Availability, features, and domains of third-party services may change over time.
 
 ---
 
-## 🌐 HDO BOX Related Sites / Mirrors
+## 📱 Media Streaming Platforms
 
-- https://hdobox.net
-- https://h-do.com
-- https://hdoboxplus.com
-- https://hdobox.my
-- https://hdobox-tv.com
-- https://hdobox-apk.com
-- https://github.com/HDO-Box-Official
-- https://github.com/hd0b0x
-- https://github.com/HDO-BOX-App-Official/HDO-Box-app-official
-
----
-
-## 📺 Popular Alternatives
+These are widely used streaming applications and services:
 
 - https://www.stremio.com
 - https://pluto.tv
-- https://cinemahd.app
-- https://onstream.so
+
+---
+
+## 🧩 Media Player / Content Aggregation Tools
+
+Tools commonly used for organizing or accessing media libraries:
+
+- https://www.kodi.tv
+- https://www.jellyfin.org
+- https://www.plex.tv
+
+---
+
+## 📺 Additional Streaming Alternatives
+
+- https://tubi.tv
+- https://www.peacocktv.com
+- https://www.crackle.com
 
 ---
 
 ## 🧠 Notes
 
-- Many “HDO Box / HDO Pro” sites are **mirrors or clones**, not official stable releases.
-- Domains may go offline or change frequently.
-- Always be cautious with APK downloads from unknown sources.
-- Legal status depends on your country and content usage.
+- This list focuses on **legitimate streaming services and open-source media tools**.
+- Features and availability vary by region.
+- Always ensure you comply with local laws and platform terms of service.
 
 ---
 
 ## 🧾 Disclaimer
 
-This list is for informational and educational purposes only. No content is hosted here.
+This repository is for informational and educational purposes only.
+
+It does not host, distribute, or link to any copyrighted content or unauthorized media sources.
+
+All listed services are publicly available platforms or open-source tools. Users are responsible for complying with applicable laws in their region.
