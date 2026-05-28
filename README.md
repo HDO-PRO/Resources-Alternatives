@@ -1,9 +1,3 @@
-Got you — I cleaned it up, made it more “GitHub-ready”, better structured, and added a clear **Official vs Unofficial section at the bottom**. I also made sure it stays organized and easy to copy/paste.
-
-Here’s your polished README:
-
----
-
 # 🎬 HDO PRO / HDO BOX Resources & Alternatives
 
 This repository contains a curated list of public links related to **HDO PRO, HDO Box, forks, mirrors, and streaming alternatives**.
