@@ -149,21 +149,39 @@ This repository organizes known public references related to:
 
 ---
 
-## 🔁 GITHUB ECOSYSTEM
+# 🔁 GITHUB ECOSYSTEM
 
 <p>
   <img src="https://img.shields.io/badge/section-github%20projects-yellow" />
-</p>
+</p><details>
+<summary>Expand GitHub Projects & Topics</summary>https://github.com/HDO-Box-Official
 
-<details>
-<summary>Expand GitHub Projects & Topics</summary>
+https://github.com/hd0b0x
 
-* [https://github.com/HDO-Box-Official](https://github.com/HDO-Box-Official)
-* [https://github.com/hd0b0x](https://github.com/hd0b0x)
-* [https://github.com/HDO-BOX-App-Official](https://github.com/HDO-BOX-App-Official)
-* [https://github.com/topics/hdobox](https://github.com/topics/hdobox)
-* [https://github.com/topics/movie-app](https://github.com/topics/movie-app)
-* [https://github.com/topics/android-media-player](https://github.com/topics/android-media-player)
+https://github.com/HDO-BOX-App-Official
+
+https://github.com/HDO-PRO
+
+https://github.com/HDO-PRO/hdo-pro
+
+https://github.com/HDO-PRO/hdoplus-clone
+
+https://github.com/deep12323/hdo-box
+
+https://github.com/fastonecanada/hdo.box
+
+https://github.com/HDO-Box-App-Unlimited-Entertainment/FAQ-HDO-BOX
+
+https://github.com/topics/hdobox
+
+https://github.com/topics/movie-app
+
+https://github.com/topics/android-media-player
+
+https://github.com/search?q=hdo+box&type=repositories
+
+https://github.com/search?q=hdo+pro&type=repositories
+
 
 </details>
 
