@@ -117,21 +117,45 @@ This repository organizes known public references related to:
 <details>
 <summary>🌐 Expand Core Domains</summary>
 
-* [https://hdobox.net](https://hdobox.net)
-* [https://h-do.com](https://h-do.com)
-* [https://hdoboxplus.com](https://hdoboxplus.com)
-* [https://hdobox.my](https://hdobox.my)
-* [https://hdobox-tv.com](https://hdobox-tv.com)
-* [https://hdobox-apk.com](https://hdobox-apk.com)
+## Core domains (most likely official)
+- hdo.app
+- hdobox.net
+- hdoboxplus.net
+- hdobox-tv.com
+- thehdobox.com
+
+## Community / mirror domains (likely mirrors or third‑party hosts)
+- hdoboxhd.com
+- hdoboxapps.net
+- hdobox-apk.com
+- hdoboxse.com
+- hdobox.my
+- h-do.com
+
+Note: ownership/official status not fully verifiable from public pages; run WHOIS/DNS checks for confirmation.
 
 </details>
 
 <details>
 <summary>💻 Expand GitHub Sources</summary>
 
-* [https://github.com/HDO-Box-Official](https://github.com/HDO-Box-Official)
-* [https://github.com/hd0b0x](https://github.com/hd0b0x)
-* [https://github.com/HDO-BOX-App-Official/HDO-Box-app-official](https://github.com/HDO-BOX-App-Official/HDO-Box-app-official)
+<summary>💻 Expand GitHub Sources</summary>
+
+* https://github.com/HDO-Box-Official
+* https://github.com/hd0b0x
+* https://github.com/HDO-BOX-App-Official/HDO-Box-app-official
+* https://github.com/HDO-Box-App-Unlimited-Entertainment
+* https://github.com/HDO-BOX-App-Official
+* https://github.com/HDO-PRO
+* https://github.com/HDO-PRO/hdoplus-clone
+* https://github.com/HDOBOXSE
+* https://github.com/HDO-Box-Plus
+* https://github.com/hdoplus
+* https://github.com/HDOBOX
+* https://github.com/HDOBox
+* https://github.com/hdobox-team
+* https://github.com/hdoboxapps
+* https://github.com/hdobox-app
 
 </details>
 
