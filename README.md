@@ -56,8 +56,15 @@
 ### 📥 Download Links
 
 * Android: [HDO App](https://hdo.app/?utm_source=chatgpt.com)
-* iOS: Not available
+* iOS: Not available (Join To Get)
 * Android TV: Available via official site
+
+# APK LINKS:
+
+* [Mobile Android Apk](https://hdo.app/download)
+* [TV APK](https://hdo.app/tv)
+* Beta (No longer Supporting)
+
 
 ---
 
@@ -69,7 +76,7 @@
 
 ### 💬 Community
 
-* Telegram: [HDO Telegram](https://t.me/+Ywz5HnhvFHAsZjk1?utm_source=chatgpt.com)
+* Telegram: [HDO Telegram](https://t.me/+Ywz5HnhvFHAsZjk1?utm_source=chatgpt.com) Or [HDO TEL](https://t.me/+tgrFoCm170s2NmQ9)
 * Discord: [HDO Discord](https://discord.gg/9gufdXE6?utm_source=chatgpt.com) or [HDO DIS](https://discord.com/invite/VPRJVExUVD)
 * Email: [hdobox@gmail.com](mailto:hdobox@gmail.com)
 
