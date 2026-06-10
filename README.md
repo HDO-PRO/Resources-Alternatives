@@ -82,10 +82,12 @@
 
 ---
 
-## 💬 Community
+### 💬 Community
 
-* Telegram Community
-* Discord Community
+* Telegram: https://t.me/+tgrFoCm170s2NmQ9
+
+* Discord: https://discord.com/invite/VPRJVExUVD
+
 * Email: [hdobox@gmail.com](mailto:hdobox@gmail.com)
 
 ---
