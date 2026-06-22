@@ -1,6 +1,15 @@
 # 🎬✨ HDO PRO / HDO BOX — Resource Index
 
 <p align="center">
+  <img
+    src="<img width="1983" height="793" alt="ChatGPT Image Jun 22, 2026, 03_43_53 PM" src="https://github.com/user-attachments/assets/ba53579f-546d-4b3c-8051-52cd294e44b9" />"
+    alt="Banner"
+    width="600"
+    style="border-radius: 40px;"
+  />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/status-community%20maintained-yellow" />
   <img src="https://img.shields.io/badge/type-resource%20hub-lightgrey" />
   <img src="https://img.shields.io/badge/last%20updated-2026--06-blue" />
