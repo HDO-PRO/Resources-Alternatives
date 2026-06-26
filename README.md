@@ -61,9 +61,10 @@
 <a href="#-github-ecosystem">GitHub</a> •
 <a href="#-hdo-pro">HDO PRO</a> •
 <a href="#-apps--community-tools">Apps</a> •
+<a href="#-hdo-box-alternatives">Alternatives</a> •
 <a href="#-troubleshooting">Troubleshooting</a> •
 <a href="#-faq">FAQ</a> •
-<a href="#-alternatives">Alternatives</a> •
+<a href="#-legal-alternatives">Legal</a> •
 <a href="#-notes">Notes</a>
 </p>
 
@@ -94,10 +95,10 @@
 ### 💬 Community
 
 * Telegram: https://t.me/+tgrFoCm170s2NmQ9
-
 * Discord: https://discord.com/invite/VPRJVExUVD
-
 * Email: [hdobox@gmail.com](mailto:hdobox@gmail.com)
+* Reddit: https://www.reddit.com/r/HDOBox
+* X (Twitter): https://x.com/hdobox
 
 ---
 
@@ -115,6 +116,8 @@ These links are intended to help find older HDO Box APK versions and are not spe
 * Uptodown Search: https://en.uptodown.com/android/search/hdo%20box
 * Aptoide Search: https://en.aptoide.com/search?query=hdo+box
 * F-Droid Search: https://search.f-droid.org/?q=hdo+box
+* APKCombo Search: https://apkcombo.com/search/hdo-box
+* APKSum Search: https://apksum.com/search/hdo-box
 
 </details>
 
@@ -123,6 +126,9 @@ These links are intended to help find older HDO Box APK versions and are not spe
 
 * https://h-do.com
 * https://hdoapp.com/hdo-box-3
+* https://hdoboxapkpro.com/
+* https://hdoboxmodapk.com/
+* https://thehdobox.com/
 
 </details>
 
@@ -246,6 +252,8 @@ This repository organizes known public references related to:
 * hdoboxse.com
 * hdobox.my
 * h-do.com
+* hdoboxapkpro.com
+* hdoboxmodapk.com
 
 > Ownership and official status may not always be verifiable.
 
@@ -260,6 +268,8 @@ This repository organizes known public references related to:
 
 * https://github.com/HDO-PRO/hdo-pro
 * https://github.com/HDO-PRO/hdoplus-clone
+* https://github.com/HDO-PRO/HDO-Pro-Web-Index
+* https://github.com/orgs/HDO-PRO/repositories
 
 </details>
 
@@ -274,11 +284,10 @@ This repository organizes known public references related to:
 
 * https://github.com/HDO-Box-Official
 * https://github.com/hd0b0x
-* https://github.com/HDO-BOX-App-Official/HDO-Box-app-official
+* https://github.com/HDO-Box-App-Official/HDO-Box-app-official
 * https://github.com/HDO-Box-App-Unlimited-Entertainment
 * https://github.com/HDO-BOX-App-Official
 * https://github.com/HDO-PRO
-* https://github.com/HDO-PRO/hdoplus-clone
 * https://github.com/HDOBOXSE
 * https://github.com/HDO-Box-Plus
 * https://github.com/hdoplus
@@ -287,27 +296,20 @@ This repository organizes known public references related to:
 * https://github.com/hdobox-team
 * https://github.com/hdoboxapps
 * https://github.com/hdobox-app
+* https://github.com/deep12323/hdo-box
+* https://github.com/fastonecanada/hdo.box
 
 </details>
 
 <details>
 <summary>Expand GitHub Projects & Topics</summary>
 
-https://github.com/deep12323/hdo-box
-
-https://github.com/fastonecanada/hdo.box
-
-https://github.com/HDO-Box-App-Unlimited-Entertainment/FAQ-HDO-BOX
-
-https://github.com/topics/hdobox
-
-https://github.com/topics/movie-app
-
-https://github.com/topics/android-media-player
-
-https://github.com/search?q=hdo+box&type=repositories
-
-https://github.com/search?q=hdo+pro&type=repositories
+* https://github.com/HDO-Box-App-Unlimited-Entertainment/FAQ-HDO-BOX
+* https://github.com/topics/hdobox
+* https://github.com/topics/movie-app
+* https://github.com/topics/android-media-player
+* https://github.com/search?q=hdo+box&type=repositories
+* https://github.com/search?q=hdo+pro&type=repositories
 
 </details>
 
@@ -318,6 +320,8 @@ https://github.com/search?q=hdo+pro&type=repositories
 <details>
 <summary>Expand Apps List</summary>
 
+## Streaming Apps
+
 * CloudStream
 * TeaTV
 * Cinema HD
@@ -326,14 +330,97 @@ https://github.com/search?q=hdo+pro&type=repositories
 * BeeTV
 * Bee Plus forks
 * LokLok variants
+* CyberFlix TV
+* Syncler
+* Plex
+* Aura
+* Lumera
+
+## Media Centers
+
 * Kodi builds
 * Community add-ons
+* Stremio
+* Plex Media Server
+
+## Tools
+
+* Real-Debrid (premium link service)
+* Trakt (watch history sync)
+* VPN services for privacy
 
 </details>
 
 ---
 
-# 🔧 TROUBLESHOOTING
+# � HDO BOX ALTERNATIVES
+
+> ⚠️ **Note**: HDO Box stopped working as of May 11, 2026. The following alternatives are actively maintained as of 2026.
+
+<details>
+<summary>🏆 Top Rated Alternatives</summary>
+
+| App | Rating | Download Link | Best For |
+| --- | --- | --- | --- |
+| **Flix Vision** | ⭐ 4.7/5 | https://flixvision.pro/ or https://linktr.ee/flixvision | Overall reliability, actively maintained |
+| **OnStream** | ⭐ 4.7/5 | https://onstreams.pro/download/ | Trakt integration, excellent free links |
+| **FilmPlus** | ⭐ 4.6/5 | https://filmplus.app/dl (Code: 52193) | Cleanest UI interface |
+| **BeeTV** | ⭐ 4.5/5 | https://beetv-official.com/dl/ or https://beetvs.app/ | Closest clone to Cinema HD |
+| **Cinema HQ** | ⭐ 4.8/5 | Available via APK archives | High-rated alternative |
+| **Nova TV** | ⭐ 4.3/5 | https://novapp.app/ (Code: 9512190) | Freshest scrapes |
+| **Syncler** | ⭐ 4.4/5 | Available via APK archives | Premium Real-Debrid for 4K Dolby Vision |
+| **Stremio** | ⭐ 4.5/5 | https://www.stremio.com | Addon ecosystem |
+| **Kodi** | ⭐ 4.5/5 | https://kodi.tv | Power users, customization |
+
+</details>
+
+<details>
+<summary>🔀 HDO Box Forks & Continuations</summary>
+
+### Community Forks
+
+* **HDO PRO** - Private, community-driven fork/mod (ad-free, privacy-focused)
+  * GitHub: https://github.com/HDO-PRO/hdo-pro
+  * Discord: https://discord.me/hdopromod
+
+* **HDO Box SE** - Enhanced version (v2.1.1)
+  * Download: https://hdoboxse.com/
+
+* **HDO Box Plus** - Another variant
+  * Download: https://hdoboxplus.com/
+
+> ⚠️ These forks are community-maintained and not officially affiliated with the original HDO Box.
+
+</details>
+
+<details>
+<summary>📺 Other Notable Alternatives</summary>
+
+### Streaming Apps
+
+* **StreamFlix Reborn** - Available via APK archives
+* **Netfly** - Available via APK archives
+* **Cartoon HD** - Available via APK archives
+* **Viva TV** - Available via APK archives
+* **Mobiflix** - Available via APK archives
+* **Kisskh** - Available via APK archives
+* **CyberFlix TV** - Available via APK archives
+* **Xuper TV** - Available via APK archives
+* **NetMirror** - Available via APK archives
+
+### Installation Tips
+
+* Use Downloader app on Firestick/Android TV
+* Enable "Unknown Sources" in device settings
+* Verify APK integrity with VirusTotal before installing
+* Prefer official download sites when available
+* Some apps may require Real-Debrid for best quality
+
+</details>
+
+---
+
+# �� TROUBLESHOOTING
 
 <details>
 <summary>Common Problems</summary>
@@ -404,7 +491,7 @@ Yes. External resources frequently change.
 
 ---
 
-# 🌐 ALTERNATIVES
+# 🌐 LEGAL ALTERNATIVES
 
 <details>
 <summary>Official Platforms</summary>
@@ -416,6 +503,8 @@ Yes. External resources frequently change.
 * https://www.max.com
 * https://tv.apple.com
 * https://www.youtube.com
+* https://www.peacocktv.com
+* https://www.paramountplus.com
 
 </details>
 
@@ -425,6 +514,10 @@ Yes. External resources frequently change.
 * https://pluto.tv
 * https://www.stremio.com
 * https://kodi.tv
+* https://www.tubitv.com
+* https://www.crackle.com
+* https://www.plex.tv
+* https://www.freevee.com
 
 </details>
 
