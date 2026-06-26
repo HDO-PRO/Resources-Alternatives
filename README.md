@@ -327,20 +327,13 @@ This repository organizes known public references related to:
 * Cinema HD
 * Movie HD
 * Streamflix
-* BeeTV
 * Bee Plus forks
 * LokLok variants
-* CyberFlix TV
-* Syncler
-* Plex
-* Aura
-* Lumera
 
 ## Media Centers
 
 * Kodi builds
 * Community add-ons
-* Stremio
 * Plex Media Server
 
 ## Tools
@@ -362,13 +355,13 @@ This repository organizes known public references related to:
 
 | App | Rating | Download Link | Best For |
 | --- | --- | --- | --- |
-| **Flix Vision** | ⭐ 4.7/5 | https://flixvision.pro/ or https://linktr.ee/flixvision | Overall reliability, actively maintained |
+| **Flix Vision** | ⭐ 4.7/5 | https://flixvision.pro/ or https://linktr.ee/flixvision (Code: 346420) | Overall reliability, actively maintained |
 | **OnStream** | ⭐ 4.7/5 | https://onstreams.pro/download/ | Trakt integration, excellent free links |
 | **FilmPlus** | ⭐ 4.6/5 | https://filmplus.app/dl (Code: 52193) | Cleanest UI interface |
 | **BeeTV** | ⭐ 4.5/5 | https://beetv-official.com/dl/ or https://beetvs.app/ | Closest clone to Cinema HD |
-| **Cinema HQ** | ⭐ 4.8/5 | Available via APK archives | High-rated alternative |
+| **Cinema HQ** | ⭐ 4.8/5 | https://cinemahq.app/ or https://cinemahq.org/ | High-rated alternative |
 | **Nova TV** | ⭐ 4.3/5 | https://novapp.app/ (Code: 9512190) | Freshest scrapes |
-| **Syncler** | ⭐ 4.4/5 | Available via APK archives | Premium Real-Debrid for 4K Dolby Vision |
+| **Syncler** | ⭐ 4.4/5 | https://syncler.net or https://app.syncler.net/ | Premium Real-Debrid for 4K Dolby Vision |
 | **Stremio** | ⭐ 4.5/5 | https://www.stremio.com | Addon ecosystem |
 | **Kodi** | ⭐ 4.5/5 | https://kodi.tv | Power users, customization |
 
@@ -398,15 +391,21 @@ This repository organizes known public references related to:
 
 ### Streaming Apps
 
-* **StreamFlix Reborn** - Available via APK archives
+* **CyberFlix TV** - https://cyberflix.com.co/ or https://cyberflix.xyz/
+* **StreamFlix Reborn** - https://github.com/streamflix-reborn/streamflix/releases
 * **Netfly** - Available via APK archives
-* **Cartoon HD** - Available via APK archives
-* **Viva TV** - Available via APK archives
-* **Mobiflix** - Available via APK archives
-* **Kisskh** - Available via APK archives
-* **CyberFlix TV** - Available via APK archives
-* **Xuper TV** - Available via APK archives
-* **NetMirror** - Available via APK archives
+* **Cartoon HD** - https://cartoon-hd.en.malavida.com/android/ or https://cartoonhd.web.app/
+* **Viva TV** - https://www.jixtv.com/player/viva-tv (Code: 5520952)
+* **Mobiflix** - https://apkpure.com/mobiflix/com.Mobiflix.Mobiflix or https://mobiflix.tv/
+* **Kisskh** - https://kisskhinfo.app/ or https://kisskhapp.net/
+* **Xuper TV** - https://apksunday.com/xuper-tv/ or https://apkfami.com/xuper-tv-global/
+* **NetMirror** - https://netmirrorapkz.app/ or https://netmirror.gg/
+* **CloudStream** - Available via APK archives
+* **TeaTV** - Available via APK archives
+* **Movie HD** - Available via APK archives
+* **LokLok variants** - Available via APK archives
+* **Aura** - https://get-aura.app/
+* **Lumera** - https://github.com/LumeraD3v/Lumera
 
 ### Installation Tips
 
